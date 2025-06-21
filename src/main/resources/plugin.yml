@@ -1,0 +1,7 @@
+main: eu.crackscout.bedwars.Main
+name: BedWars
+version: 0.0.1-SNAPSHOT
+description: A BedWars Plugin
+load: POSTWORLD
+author: JOE_
+website: crackscout.eu
